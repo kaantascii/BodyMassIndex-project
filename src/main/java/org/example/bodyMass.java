@@ -1,6 +1,6 @@
 package org.example;
 import java.util.Scanner;
-/* Author: Kaan Tasci */
+/* Author: Kaan Tascii */
 public class bodyMass {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in); // Scanner ile kullanıcıdan değer girmemizi isteriz.
